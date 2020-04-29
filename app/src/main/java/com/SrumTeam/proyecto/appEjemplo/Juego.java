@@ -7,6 +7,6 @@ public class Juego
 
     public void jugar()
     {
-
+        int i = 20;
     }
 }
