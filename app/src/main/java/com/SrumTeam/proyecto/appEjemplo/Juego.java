@@ -4,4 +4,9 @@ public class Juego
 {
     public Juego()
     {}
+
+    public void jugar()
+    {
+
+    }
 }
